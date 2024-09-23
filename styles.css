@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+.header{
+    display: flex;
+    background-color: #2C3E50;
+    color: white;
+    justify-content: space-between;
+    padding: 2vh 7vw;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+
+.second{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+.flag{
+    height: 12px;
+    width: 20px;
+}
+
+.header2{
+background-color: #18BC9C;
+padding: 2vh 7vw;
+color: white;
+flex-direction: column;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+   
+.peng{
+    padding: 2vh 7vw;
+}
+
